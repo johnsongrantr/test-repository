@@ -8,5 +8,5 @@ echo Argument was not test
 pause
 
 test:
-    echo Test branch reached
-    pause
+echo Test branch reached
+pause
